@@ -1,0 +1,23 @@
+{
+  "name": "@sandalsoft/eslint-plugin-no-require",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eric Nelson",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint-plugin-eslint-plugin": "^1.4.0"
+  },
+  "dependencies": {
+    "eslint-ast-utils": "^1.1.0"
+  }
+}
